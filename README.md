@@ -1,4 +1,4 @@
-<h3 align="center">Welcome! 👋 <br /><br />My name is Kotov Maksim<br /><br />🆀🅰 🅼🅰🅽🆄🅰🅻 🅴🅽🅶🅸🅽🅴🅴🆁</h3>
+<h2 align="center">Welcome! 👋 <br /><br />My name is Kotov Maksim<br /><br />🆀🅰 🅼🅰🅽🆄🅰🅻 🅴🅽🅶🅸🅽🅴🅴🆁</h2>
 <br/>
 
 <table>
@@ -51,21 +51,33 @@
     <td>Git</td>
     <td>Linux</td>
     <td></td>
-<!--  </tr> 
-    <tr>
-    <td colspan="3">&nbsp</td>
-  </tr>
-    <tr>
-    <td colspan="3" align="center">Projects & Test Documentation</td>
+  </tr> 
+</table>
+
+<br />
+<h2 align="center">Projects & Test Documentation<br />(в стадии наполнения)</h2>
+<br />
+
+<table>
+  <tr align="center">
+    <td width="330">Интернет магазин <br /><a href="http://test2.itcobra.ru">NextShop</a></td>
+    <td width="330">Интернет магазин <br /><a href="http://ship-ship.ru">Ship-ship.ru</a></td>
+    <td width="330">Coming soon...</td>
   </tr>
   <tr>
+    <td>
+      <ul>
+        <li><a href="https://docs.google.com/spreadsheets/d/1qUo0ScKHAgT67WDG4hDPzP04x-JtYUwRDptPzjjVx2c/edit#gid=1137236165">Тест-кейсы</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1qUo0ScKHAgT67WDG4hDPzP04x-JtYUwRDptPzjjVx2c/edit#gid=431469033">Декомпозиция</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1qUo0ScKHAgT67WDG4hDPzP04x-JtYUwRDptPzjjVx2c/edit#gid=0">Баг-репорт</a></li>
+        <li><a href="https://github.com/GoelRengis/NextShop--QA-autotests">Автотесты на Python</a></li>
+      </ul>
+    </td>
+    <td>     
+      <ul>
+        <li><a href="https://docs.google.com/spreadsheets/d/1k1d_GBHS2oaLgCZuAN8YX_8sci9KjhnCVBvrlMW17FY/edit?usp=sharing">Попарное тестирование<br />(чек-лист подбора шин)</a></li>
+      </ul>    
+      </td>
     <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr align="center">
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr> -->
+  </tr>  
 </table>
