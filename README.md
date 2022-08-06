@@ -29,17 +29,17 @@
     <td>SQL</td>
   </tr>
   <tr align="center">
-    <td><img src="https://user-images.githubusercontent.com/109822424/183246581-44cf700c-352d-4fae-85d4-e84cd107dfd0.svg" width="150" height="150" />
+    <td><a href="https://github.com/GoelRengis/NextShop--QA-autotests"><img src="https://user-images.githubusercontent.com/109822424/183246581-44cf700c-352d-4fae-85d4-e84cd107dfd0.svg" width="150" height="150" /></a>
 </td>
-    <td><img src="https://user-images.githubusercontent.com/109822424/183246585-a25a1265-3475-4995-a16c-c387315b82eb.svg" width="150" height="150" />
+    <td><a href="https://github.com/GoelRengis/NextShop--QA-autotests"><img src="https://user-images.githubusercontent.com/109822424/183246585-a25a1265-3475-4995-a16c-c387315b82eb.svg" width="150" height="150" /></a>
 </td>
-    <td><img src="https://user-images.githubusercontent.com/109822424/183246589-76a07d25-7027-4787-a695-1bc143fb65a8.svg" width="150" height="150" />
+    <td><a href="https://github.com/GoelRengis/NextShop--QA-autotests"><img src="https://user-images.githubusercontent.com/109822424/183246589-76a07d25-7027-4787-a695-1bc143fb65a8.svg" width="150" height="150" /></a>
 </td>
   </tr>
   <tr align="center">
-    <td>Python</td>
-    <td>Pycharm</td>
-    <td>Selenium</td>
+    <td><a href="https://github.com/GoelRengis/NextShop--QA-autotests">Python</a></td>
+    <td><a href="https://github.com/GoelRengis/NextShop--QA-autotests">Pycharm</a></td>
+    <td><a href="https://github.com/GoelRengis/NextShop--QA-autotests">Selenium</a></td>
   </tr>
   <tr align="center">
     <td><img src="https://user-images.githubusercontent.com/109822424/183246600-19806395-cc01-4515-8cda-8bc9eb57a86a.svg" width="150" height="150" />
