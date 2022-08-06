@@ -60,22 +60,22 @@
 
 <table>
   <tr align="center">
-    <td width="330">Интернет магазин <br /><a href="http://test2.itcobra.ru">NextShop</a></td>
-    <td width="330">Интернет магазин <br /><a href="http://ship-ship.ru">Ship-ship.ru</a></td>
+    <td width="330">Интернет магазин <br /><a href="http://test2.itcobra.ru" target="_blank">NextShop</a></td>
+    <td width="330">Интернет магазин <br /><a href="http://ship-ship.ru" target="_blank">Ship-ship.ru</a></td>
     <td width="330">Coming soon...</td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li><a href="https://docs.google.com/spreadsheets/d/1qUo0ScKHAgT67WDG4hDPzP04x-JtYUwRDptPzjjVx2c/edit#gid=1137236165">Тест-кейсы</a></li>
-        <li><a href="https://docs.google.com/spreadsheets/d/1qUo0ScKHAgT67WDG4hDPzP04x-JtYUwRDptPzjjVx2c/edit#gid=431469033">Декомпозиция</a></li>
-        <li><a href="https://docs.google.com/spreadsheets/d/1qUo0ScKHAgT67WDG4hDPzP04x-JtYUwRDptPzjjVx2c/edit#gid=0">Баг-репорт</a></li>
-        <li><a href="https://github.com/GoelRengis/NextShop--QA-autotests">Автотесты на Python</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1qUo0ScKHAgT67WDG4hDPzP04x-JtYUwRDptPzjjVx2c/edit#gid=1137236165" target="_blank">Тест-кейсы</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1qUo0ScKHAgT67WDG4hDPzP04x-JtYUwRDptPzjjVx2c/edit#gid=431469033" target="_blank">Декомпозиция</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1qUo0ScKHAgT67WDG4hDPzP04x-JtYUwRDptPzjjVx2c/edit#gid=0" target="_blank">Баг-репорт</a></li>
+        <li><a href="https://github.com/GoelRengis/NextShop--QA-autotests" target="_blank">Автотесты на Python</a></li>
       </ul>
     </td>
     <td>     
       <ul>
-        <li><a href="https://docs.google.com/spreadsheets/d/1k1d_GBHS2oaLgCZuAN8YX_8sci9KjhnCVBvrlMW17FY/edit?usp=sharing">Попарное тестирование<br />(чек-лист подбора шин)</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1k1d_GBHS2oaLgCZuAN8YX_8sci9KjhnCVBvrlMW17FY/edit?usp=sharing" target="_blank">Попарное тестирование<br />(чек-лист подбора шин)</a></li>
       </ul>    
       </td>
     <td></td>
