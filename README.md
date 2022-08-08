@@ -1,4 +1,4 @@
-<h2 align="center">Welcome! 👋 <br /><br />My name is Kotov Maksim<br /><br />🆀🅰 🅼🅰🅽🆄🅰🅻 🅴🅽🅶🅸🅽🅴🅴🆁</h2>
+<h2 align="center">Welcome! 👋 <br /><br />My name is Kotov Maksim<br /><br />𝗤𝗔 𝗠𝗮𝗻𝘂𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</h2>
 <br/>
 
 <table>
