@@ -1,4 +1,4 @@
-<h2 align="center">Welcome! 👋 <br /><br />My name is Kotov Maksim<br /><br />𝗤𝗔 𝗠𝗮𝗻𝘂𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</h2>
+<h2 align="center">Welcome! 👋 <br /><br />My name is Kotov Maksim<br /><br />𝗜 𝗮𝗺 𝗜𝗻𝘁𝗲𝗿𝗻 𝗤𝗔 𝗠𝗮𝗻𝘂𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</h2>
 <br/>
 
 <table>
@@ -76,6 +76,7 @@
     <td>     
       <ul>
         <li><a href="https://docs.google.com/spreadsheets/d/1k1d_GBHS2oaLgCZuAN8YX_8sci9KjhnCVBvrlMW17FY/edit?usp=sharing" target="_blank">Попарное тестирование<br />(чек-лист подбора шин)</a></li>
+        <li><a href="https://github.com/GoelRengis/234-test-case-in-one-hour">Тестирование формы заказа или 234 тест-кейса за час</a><li>
       </ul>    
       </td>
     <td></td>
