@@ -11,21 +11,21 @@
 </td>
   </tr>
   <tr align="center">
-    <td>Jira</td>
+    <td>Jira-XRay</td>
     <td>HTML</td>
     <td>CSS</td>
   </tr>
   <tr align="center">
     <td><img src="https://user-images.githubusercontent.com/109822424/183246507-233a6da4-8328-4289-8e63-b57275393fec.svg" width="150" height="150" />
 </td>
-    <td><img src="https://user-images.githubusercontent.com/109822424/183246519-3f1bde5f-6403-498e-8e0c-afec20898182.svg" width="150" height="150" />
+    <td><a href="https://github.com/QA-KotovMaksim/Test-API"><img src="https://user-images.githubusercontent.com/109822424/183246519-3f1bde5f-6403-498e-8e0c-afec20898182.svg" width="150" height="150" /></a>
 </td>
-    <td><img src="https://user-images.githubusercontent.com/109822424/183246524-edfae3fc-4b6d-4fab-abf5-759cfb715026.svg" width="150" height="150" />
+    <td><img src="https://user-images.githubusercontent.com/109822424/184120515-ce532ec6-3517-40fc-8a80-68f07dfc57e3.svg" width="150" height="150" />
 </td>
   </tr>
   <tr align="center">
     <td>DevTools</td>
-    <td>Postman</td>
+    <td><a href="https://github.com/QA-KotovMaksim/Test-API">Postman</a></td>
     <td>SQL</td>
   </tr>
   <tr align="center">
@@ -62,7 +62,7 @@
   <tr align="center">
     <td width="330">Интернет магазин <br /><a href="http://test2.itcobra.ru" target="_blank">NextShop</a></td>
     <td width="330">Интернет магазин <br /><a href="http://ship-ship.ru" target="_blank">Ship-ship.ru</a></td>
-    <td width="330">Coming soon...</td>
+    <td width="330">FooDService</td>
   </tr>
   <tr>
     <td>
@@ -79,6 +79,10 @@
         <li><a href="https://github.com/GoelRengis/234-test-case-in-one-hour">Тестирование формы заказа или 234 тест-кейса за час</a><li>
       </ul>    
       </td>
-    <td></td>
+    <td>      
+      <ul>
+        <li><a href="https://github.com/QA-KotovMaksim/Test-API">Тестирование API</a></li>
+      </ul>
+      </td>
   </tr>  
 </table>
