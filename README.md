@@ -62,7 +62,7 @@
   <tr align="center">
     <td width="330">Интернет магазин <br /><a href="http://test2.itcobra.ru" target="_blank">NextShop</a></td>
     <td width="330">Интернет магазин <br /><a href="http://ship-ship.ru" target="_blank">Ship-ship.ru</a></td>
-    <td width="330">FooDService</td>
+    <td width="330">Сервис заказа еды <br />FooDService</td>
   </tr>
   <tr>
     <td>
