@@ -76,7 +76,7 @@
     <td>     
       <ul>
         <li><a href="https://docs.google.com/spreadsheets/d/1k1d_GBHS2oaLgCZuAN8YX_8sci9KjhnCVBvrlMW17FY/edit?usp=sharing" target="_blank">Попарное тестирование<br />(чек-лист подбора шин)</a></li>
-        <li><a href="https://github.com/GoelRengis/234-test-case-in-one-hour">Тестирование формы заказа или 234 тест-кейса за час</a><li>
+        <li><a href="https://github.com/GoelRengis/234-test-case-in-one-hour">Тестирование формы заказа или 234 тест-кейса за час</a></li>
       </ul>    
       </td>
     <td>      
