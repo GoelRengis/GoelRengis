@@ -85,4 +85,22 @@
       </ul>
       </td>
   </tr>  
+  <tr align="center">
+    <td width="330">&nbsp;</a></td>
+    <td width="330">Сервис обучения <br />английскому языку<br /><a href="https://heyheyjude.github.io/english-for-testers/" target="_blank">RSLang</a></td>
+    <td width="330">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+    &nbsp;
+    </td>
+    <td>     
+      <ul>
+        <li><a href="https://docs.google.com/spreadsheets/d/1k1d_GBHS2oaLgCZuAN8YX_8sci9KjhnCVBvrlMW17FY/edit?usp=sharing" target="_blank">Регрессионное тестирование(41 bug-report)</a></li>
+      </ul>    
+      </td>
+    <td>      
+    &nbsp;
+      </td>
+  </tr> 
 </table>
