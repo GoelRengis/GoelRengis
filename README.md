@@ -96,7 +96,7 @@
     </td>
     <td>     
       <ul>
-        <li><a href="https://docs.google.com/spreadsheets/d/1k1d_GBHS2oaLgCZuAN8YX_8sci9KjhnCVBvrlMW17FY/edit?usp=sharing" target="_blank">Регрессионное тестирование(41 bug-report)</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1k1d_GBHS2oaLgCZuAN8YX_8sci9KjhnCVBvrlMW17FY/edit?usp=sharing" target="_blank">Регрессионное тестирование<br />(41 bug-report)</a></li>
       </ul>    
       </td>
     <td>      
